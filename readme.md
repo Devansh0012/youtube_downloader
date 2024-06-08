@@ -10,7 +10,7 @@ This project is a YouTube downloader that allows users to download videos from Y
 
 ## Installation
 
-1. Clone the repository: `git clone https://Devansh0012/youtube-downloader.git`
+1. Clone the repository: `git clone https://Devansh0012/youtube_downloader.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Run the application: `python youtube.py`
 
